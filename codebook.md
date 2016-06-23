@@ -1,5 +1,5 @@
-##Code Book
-#This code book will describe the data and steps followed in this project, to create the resulting tidy data set.
+#Code Book
+This code book will describe the data and steps followed in this project, to create the resulting tidy data set.
 
 #Overview
 
